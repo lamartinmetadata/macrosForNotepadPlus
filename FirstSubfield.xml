@@ -1,0 +1,8 @@
+        <Macro name="FirstSubfield" Ctrl="yes" Alt="yes" Shift="no" Key="112">
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="^\w.+" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="ǂt $&amp;" />
+            <Action type="3" message="1702" wParam="0" lParam="896" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1608" sParam="" />
+        </Macro>
